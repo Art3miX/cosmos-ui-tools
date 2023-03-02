@@ -46,6 +46,6 @@ There are tons of hidden gems out there in the open, missed just because they we
 
 [Subtract Network](https://cosmos-networks.subtract.fi/) - Easy UI to add chains to your Keplr or Cosmostation wallets
 
-~~[Multisig Notional](multisig.notional.ventures/) - Easy UI to handle Multisigs and send TXs.~~ OFFLINE ATM
+[Multisig Notional](https://multisig.notional.ventures/) - Easy UI to handle Multisigs and send TXs.
 
 [kohl](https://cosmos-multisig-ui-kohl.vercel.app/) - UI to send funds from your multisig wallet
