@@ -16,11 +16,19 @@ There are tons of hidden gems out there in the open, missed just because they we
 
 [Terra Explorer](https://finder.terra.money/) - Explorer for terra chains
 
+[Ping Dashboard](https://ping.pub/) - Explorer, wallet, and more
+
 ## Analytics
+
+[Dexmos](https://www.dexmos.app/) - Osmosis pool analytics
 
 [Map of Zones](https://mapofzones.com/) - Analytics visualizer of cosmos chains and IBC connections.
 
 [Mintscan](https://hub.mintscan.io/chains/overview) - Data about cosmos chains.
+
+[Smart Stake Analytics](https://smartstake.io/) - Analytics hub for assessing validators, network, relayers, & decentralization metrics.
+
+[Observatory](https://observatory.zone/) - Aggregated validator statistics, decentralization metrics, and scoring
 
 ## Smart contract tools
 
