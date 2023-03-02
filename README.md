@@ -18,6 +18,8 @@ There are tons of hidden gems out there in the open, missed just because they we
 
 [Ping Dashboard](https://ping.pub/) - Explorer, wallet, and more
 
+[Ezstaking tool](https://ezstaking.tools/cosmoshub) - Mainnets explorer with most of the big chains
+
 ## Analytics
 
 [Dexmos](https://www.dexmos.app/) - Osmosis pool analytics
@@ -42,6 +44,10 @@ There are tons of hidden gems out there in the open, missed just because they we
 
 [Subtract Contract Explorer](https://explorer.subtract.fi/) - Tool to explore contracts ( * Unclear what chains are supported )
 
+[JunoMint](https://junomint.com/) - Easy to use tool to create cw20 on juno
+
+[HuaMint](https://huamint.netlify.app) - Easy to use tool to create cw20 on chihuahua
+
 ## Governance tools
 
 [Terra Station](https://station.terra.money/gov) - Easy to use tool for creating and voting on proposal of multiple chains
@@ -50,6 +56,8 @@ There are tons of hidden gems out there in the open, missed just because they we
 
 [Interchain Gov](https://interchaingov.com/) - Full suite of governance features
 
+[Ezstaking](https://ezstaking.tools/wallet/governance) - Easy to use tool for creating, depositing and voting on proposal.
+
 ## Wallets
 
 [Subtract Network](https://cosmos-networks.subtract.fi/) - Easy UI to add chains to your Keplr or Cosmostation wallets
@@ -57,3 +65,7 @@ There are tons of hidden gems out there in the open, missed just because they we
 [Multisig Notional](https://multisig.notional.ventures/) - Easy UI to handle Multisigs and send TXs.
 
 [kohl](https://cosmos-multisig-ui-kohl.vercel.app/) - UI to send funds from your multisig wallet
+
+[DaoDao wallet](https://daodao.zone/wallet) - Easy to use UI for custom messages
+
+[Ezstaking](https://ezstaking.tools/wallet) - Ui for sending funds , staking tokens , setting withdrawal address , Editing validator info and more.
