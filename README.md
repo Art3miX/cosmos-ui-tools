@@ -1,3 +1,10 @@
+### **Disclaimer**
+
+**DYOR**, and **NEVER** give your mnemonics or sign anything you did NOT intent to! 
+Those websites have **not** been audited by me, or tested in any way, they are being provided as is by the community.
+
+* **If you suspect that any website is harmful, please open an issue, I will remove first and asks questions later!**
+
 # Cosmos UI Tools
 Presented below is a comprehensive list of exceptional UI tools that all individuals on Cosmos should be acquainted with.  
 These tools enable users to perform tasks swiftly and efficiently, all while utilizing a remarkably user-friendly interface.
