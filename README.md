@@ -20,6 +20,12 @@ There are tons of hidden gems out there in the open, missed just because they we
 
 [Ezstaking tool](https://ezstaking.tools/cosmoshub) - Mainnets explorer with most of the big chains
 
+[Iobscan](https://ibc.iobscan.io/home) - Explorer for IBC
+
+[kujira finder](https://finder.kujira.app/kaiyo-1) - Explorer for kujira chain
+
+[Nodes guru explorer](https://explorers.guru) - Mainnet and testnet explorer for most cosmos chains
+
 ## Analytics
 
 [Dexmos](https://www.dexmos.app/) - Osmosis pool analytics
