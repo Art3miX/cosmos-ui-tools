@@ -72,6 +72,6 @@ There are tons of hidden gems out there in the open, missed just because they we
 
 [kohl](https://cosmos-multisig-ui-kohl.vercel.app/) - UI to send funds from your multisig wallet
 
-[DaoDao wallet](https://daodao.zone/wallet) - Easy to use UI for custom messages
+[DaoDao wallet](https://daodao.zone/wallet) - Easy to use UI for custom messages on juno
 
 [Ezstaking](https://ezstaking.tools/wallet) - Ui for sending funds , staking tokens , setting withdrawal address , Editing validator info and more.
