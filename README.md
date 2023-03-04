@@ -45,6 +45,8 @@ There are tons of hidden gems out there in the open, missed just because they we
 
 [Observatory](https://observatory.zone/) - Aggregated validator statistics, decentralization metrics, and scoring
 
+[Bro_n_Bro monitors](https://monitor.bronbro.io/) - Chains stats tracker (bonded ratio, staking APR, price, txs per block, etc.)
+
 ## Smart contract tools
 
 [Juno Tools](https://juno.tools/) - Neat tool set for smart contract on Juno
@@ -74,6 +76,8 @@ There are tons of hidden gems out there in the open, missed just because they we
 ## Wallets
 
 [Subtract Network](https://cosmos-networks.subtract.fi/) - Easy UI to add chains to your Keplr or Cosmostation wallets
+
+[Chain-registry App](https://chain-registry.netlify.app/) - Chain-registry repo UI to add chains to Keplr wallet
 
 [Multisig Notional](https://multisig.notional.ventures/) - Easy UI to handle Multisigs and send TXs.
 
