@@ -63,6 +63,8 @@ There are tons of hidden gems out there in the open, missed just because they we
 
 [HuaMint](https://huamint.netlify.app) - Easy to use tool to create cw20 on chihuahua
 
+[JSON Schema Message Builder](https://app.abstract.money/json) - Upload your contract schema and use an auto-generated form to build messages to interact with your contracts
+
 ## Governance tools
 
 [Terra Station](https://station.terra.money/gov) - Easy to use tool for creating and voting on proposal of multiple chains
