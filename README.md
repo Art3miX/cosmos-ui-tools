@@ -65,6 +65,8 @@ There are tons of hidden gems out there in the open, missed just because they we
 
 [JSON Schema Message Builder](https://app.abstract.money/json) - Upload your contract schema and use an auto-generated form to build messages to interact with your contracts
 
+[TokenFactory and FeeShare Tools](https://juno.reece.sh/) - Mint TokenFactory tokens and register your FeeShare contracts with Keplr
+
 ## Governance tools
 
 [Terra Station](https://station.terra.money/gov) - Easy to use tool for creating and voting on proposal of multiple chains
